@@ -1,4 +1,4 @@
-# ecommerce-user-service.
+# ecommerce-user-service
 User Service para sistema de ecommerce.
 
 ## Características
